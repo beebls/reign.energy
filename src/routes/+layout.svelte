@@ -16,12 +16,12 @@
 	<meta property="og:url" content="https://reign.energy/" />
 	<meta property="og:title" content="i love reign energy" />
 	<meta property="og:description" content="regin energ" />
-	<meta property="og:image" content="reign.gif" />
+	<meta property="og:image" content="https://reign.energy/whosippin.gif" />
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
 	<meta property="twitter:url" content="https://reign.energy/" />
 	<meta property="twitter:title" content="i love reign energy" />
 	<meta property="twitter:description" content="regin energ" />
-	<meta property="twitter:image" content="reign.gif" />
+	<meta property="twitter:image" content="https://reign.energy/whosippin.gif" />
 </svelte:head>

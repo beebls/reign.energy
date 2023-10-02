@@ -19,6 +19,6 @@
 >
 	<audio bind:this={audioRef} class="hidden" src="hello.mp3" preload="auto" autoplay />
 	<div class="w-64 h-64">
-		<img src="reign.gif" alt="i love reign okay who sippin today though" />
+		<img src="whosippin.gif" alt="i love reign okay who sippin today though" />
 	</div>
 </div>
